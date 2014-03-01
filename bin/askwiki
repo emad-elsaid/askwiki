@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require 'askwiki'
+
+query = ARGV[0] ||
+  begin
+    print 'What do you need to know? : '
+    gets.chomp
+  end
+
+puts Askwiki.ask(query)

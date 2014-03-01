@@ -1,0 +1,10 @@
+.DS_Store
+.rvmrc
+doc
+Gemfile.lock
+github-test.rb
+pkg
+profile*.html
+rdoc
+*.sqlite3
+*.gem
