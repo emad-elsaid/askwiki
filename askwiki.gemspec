@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'askwiki'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.summary     = 'ask wikipedia from cli'
   s.description = 'get article text from wikipedia from cli'
   s.authors     = ['Emad Elsaid']
