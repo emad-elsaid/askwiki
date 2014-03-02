@@ -1,4 +1,4 @@
-# Ask Wikipedia
+# Ask Wikipedia [![Gem Version](https://badge.fury.io/rb/askwiki.png)](http://badge.fury.io/rb/askwiki)
 
 Ask Wikipedia is a ruby gem for querying wikipedia in any language from within your 
 ruby or rails application, and also could be used from commandline directly.
