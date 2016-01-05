@@ -11,4 +11,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/blazeeboy/askwiki'
   s.license     = 'MIT'
   s.require_paths = ['lib']
+  s.add_runtime_dependency 'open_uri_allow_redirect','0.0.1'
 end
